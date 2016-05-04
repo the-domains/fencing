@@ -1,0 +1,14 @@
+layout_spectrum: 0.2580645
+typography_spectrum: 0.3100359
+color:
+  saturation: 0.7956989
+  brandStrength: 1
+  lightness: 0.6971326
+  brandColors:
+    - '#FFFFFF'
+    - '#CA2128'
+    - '#DB7C7D'
+    - '#D98383'
+    - '#FBE6E8'
+  rhythmicContrast: 0
+name: Fencing
